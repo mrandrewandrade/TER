@@ -3,21 +3,22 @@ title: Computer Engineering Robotics 2025-2026
 layout: home
 ---
 
-1. Github Pages Personal Portfolio [jekyll, markdown/yml]
-2. Jupyter Notebook Running in Python Environment [pip]
+1. [Github Pages Personal Portfolio](https://github.com/topics/jekyll-theme) [jekyll, markdown/yml]
+2. [Jupyter Notebook Running in Python Environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) [pip/venv]
 3. Linux (optional) [linux2windows or dual boot]
-4. Exporatory Data Analysis [Matplotlib, Seaborn] https://datascienceguide.github.io/exploratory-data-analysis
-5. Machine Learning https://www.statlearning.com/resources-python
-7. Regression [Scikit learn, statsmodels]
-8. Classfication
-7. Clustering 
-10. Association [https://www.youtube.com/watch?v=YgnpqrgKTbE&list=PLUpgd_KWKlSBuI6-a-bSBd6NLewjlFAUc&index=6]
-11. Reinforcement Learning https://www.youtube.com/watch?v=rzbFhu6So5U
-
+4. [Exporatory Data Analysis](https://datascienceguide.github.io/exploratory-data-analysis) [Matplotlib, Seaborn] 
+5. [Introduction to Statistical Learning](https://www.statlearning.com/resources-python)
+5a. Regression [Scikit learn, statsmodels]
+5b. Classfication
+5c. Clustering
+7. Association [https://www.youtube.com/watch?v=YgnpqrgKTbE&list=PLUpgd_KWKlSBuI6-a-bSBd6NLewjlFAUc&index=6]
+8. Search (TBD)
+9. Reinforcement Learning (Programming an AI to play  a video game)
+10.a. [Street Fighter](https://www.youtube.com/watch?v=rzbFhu6So5U)
 Competitions:
-https://battlecode.org/  [Java]
-https://www.cs.mun.ca/~dchurchill/starcraftaicomp/  [Java]
-https://xfuzzycomp.github.io/XFC/ [Python]
+10.b [Xfuzzycomp](https://xfuzzycomp.github.io/XFC/) [Python]
+10.c. [battle code](https://battlecode.org/)  [Java]
+10.d [starcraft ai](https://www.cs.mun.ca/~dchurchill/starcraftaicomp/)  [Java]
 
 ----
 
