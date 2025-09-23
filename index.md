@@ -19,6 +19,17 @@ Competitions:
 10.b [Xfuzzycomp](https://xfuzzycomp.github.io/XFC/) [Python]
 10.c. [battle code](https://battlecode.org/)  [Java]
 10.d [starcraft ai](https://www.cs.mun.ca/~dchurchill/starcraftaicomp/)  [Java]
+11. Units
+  - Force (Newton, pounds[lbs] of force)
+  - Mass (lbs, kgs)
+  - Time (seconds, minutes, hours)
+  - Energy (Joules, Calories)
+  - Pressure (Pascals, PSI)
+  - Distance (Meters, Inches)
+  - Velocity (m/s)
+  - Acceleration (m/s^2)
+  - Watts (voltage*amps OR (A^2)Ω)
+  - Torque(ft lbs[foot pounds] or Nm[Newton meters])
 
 ----
 
