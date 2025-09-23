@@ -2,6 +2,17 @@
 title: Computer Engineering Robotics 2025-2026
 layout: home
 ---
+0. Units
+  - Force (Newton. pounds of force)
+  - Mass (pounds, kilograms)
+  - Time (econds, minutes, hours)
+  - Energy (Joules, calories)
+  - Pressure (Pascals, PSI)
+  - Distance (meters, inches)
+  - Veloity = m/s
+  - Acceleration = m/s^2
+  -  Watts = voltage x amps or (A^2)Ω
+  -  torque = foot pounds
 
 1. [Github Pages Personal Portfolio](https://github.com/topics/jekyll-theme) [jekyll, markdown/yml]
 2. [Jupyter Notebook Running in Python Environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) [pip/venv]
