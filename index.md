@@ -3,11 +3,11 @@ title: Computer Engineering Robotics 2025-2026
 layout: home
 ---
 
-1. [Github Pages Personal Portfolio](https://github.com/topics/jekyll-theme) [jekyll, markdown/yml]
-2. [Jupyter Notebook Running in Python Environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) [pip/venv]
-3. Linux (optional) [linux2windows or dual boot]
-4. [Exporatory Data Analysis](https://datascienceguide.github.io/exploratory-data-analysis) [Matplotlib, Seaborn] 
-5. [Introduction to Statistical Learning](https://www.statlearning.com/resources-python)
+1. [Github Pages Personal Portfolio](https://github.com/topics/jekyll-theme) [jekyll, markdown/yml] (Completed)
+2. [Jupyter Notebook Running in Python Environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) [pip/venv] (Completed)
+3. Linux (optional) [linux2windows or dual boot] (Completed)
+4. [Exporatory Data Analysis](https://datascienceguide.github.io/exploratory-data-analysis) [Matplotlib, Seaborn] (Completed)
+5. [Introduction to Statistical Learning](https://www.statlearning.com/resources-python) (Completed)
 5a. Regression [Scikit learn, statsmodels]
 5b. Classfication
 5c. Clustering
