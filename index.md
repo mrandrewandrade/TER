@@ -3,11 +3,22 @@ title: Computer Engineering Robotics 2025-2026
 layout: home
 ---
 
-1. [Github Pages Personal Portfolio](https://github.com/topics/jekyll-theme) [jekyll, markdown/yml]
-2. [Jupyter Notebook Running in Python Environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) [pip/venv]
-3. Linux (optional) [linux2windows or dual boot]
-4. [Exporatory Data Analysis](https://datascienceguide.github.io/exploratory-data-analysis) [Matplotlib, Seaborn] 
-5. [Introduction to Statistical Learning](https://www.statlearning.com/resources-python)
+0. Units
+  - Force (Newtons, pounds (of force)
+  - Mass (pounds, kilograms)
+  - Time (seconds, minutes, hours)
+  - Energy (Joules, calories)
+  - Pressure (Pascals, PSI)
+  - Distance (meters, inches)
+  - Velocity = m/s
+  - Acceleration = m/s^2
+  - Watts = voltage x amps or (A^2)Ω
+  - torque = foot pounds
+2. [Github Pages Personal Portfolio](https://github.com/topics/jekyll-theme) [jekyll, markdown/yml]
+3. [Jupyter Notebook Running in Python Environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) [pip/venv]
+4. Linux (optional) [linux2windows or dual boot]
+5. [Exporatory Data Analysis](https://datascienceguide.github.io/exploratory-data-analysis) [Matplotlib, Seaborn] 
+6. [Introduction to Statistical Learning](https://www.statlearning.com/resources-python)
 5a. Regression [Scikit learn, statsmodels]
 5b. Classfication
 5c. Clustering
