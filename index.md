@@ -9,7 +9,7 @@ layout: home
   - Energy (Joules, calories)
   - Pressure (Pascals, PSI)
   - Distance (meters, inches)
-  - Veloity = m/s
+  - Velocity = m/s
   - Acceleration = m/s^2
   -  Watts = voltage x amps or (A^2)Ω
   -  torque = foot pounds
