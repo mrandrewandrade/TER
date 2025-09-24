@@ -172,3 +172,32 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 [MIT License]: https://en.wikipedia.org/wiki/MIT_License
 [starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
 [actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+---
+
+## Units and Equations from Class (Assignment)
+
+- **Length** — meter (m)  
+- **Mass** — kilogram (kg), pound-mass (lbm)  
+- **Time** — second (s)  
+- **Electric current** — ampere (A)  
+- **Electric potential difference (Voltage)** — volt (V)  
+- **Power** — watt (W) = joule per second (J/s)  
+- **Torque** — newton-meter (N·m), pound-foot (lb·ft)  
+- **Pressure** — pascal (Pa)  
+- **Energy** — joule (J), calorie (cal)  
+- **Force** — newton (N), pound-force (lbf)  
+- **Distance/Length** — meter (m)  
+- **Velocity** — meters per second (m/s)  
+- **Acceleration** — meters per second squared (m/s²) 
+- **Temperature** — degree Celsius (°C), degree Fahrenheit (°F), kelvin (K)  
+
+### Common Equations
+- **Ohm’s Law**: V = I × R  
+- **Power**: P = W / t = I × V  
+- **Force**: F = m × a  
+- **Torque**: τ = r × F  
+- **Kinetic Energy**: KE = ½ × m × v²  
+- **Gravitational Potential Energy**: PE = m × g × h  
+- **Velocity**: v = Δx / Δt  
+- **Acceleration**: a = Δv / Δt  
+- **Work**: W = F × d  
