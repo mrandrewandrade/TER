@@ -22,7 +22,7 @@ Competitions:
 
 ----
 
-# Unit 0 (Units of Calucation)
+# Unit 0 (Units of Calculation)
 
 ---
 
@@ -79,9 +79,9 @@ Competitions:
 
 ---
 
-## How Much Does a 190 lb Man Weigh on the Moon?
+## 0.1 Q: How Much Does a 190 lb Man Weigh on the Moon?
 
----
+---d
 
 ### Given:
 
@@ -124,15 +124,16 @@ F = 86.18 kg × 1.62 m/s² ≈ 139.6 N
 ### S — Solve:
 > To get Moon weight in pounds:  
 > `139.6 N ÷ 4.44822 ≈ 31.4 lb`
->
+> Because the input in 190 lbs and not 190. lbs, we must use 2 significant digits so the answer is:
+> 31 lb_f
 > ---
 >
 > ### Final Answer:
 
-- A **190 lb man on Earth** weighs **~31.4 lb on the Moon**
+- A **190 lb man on Earth** weighs **~31 lb_f on the Moon**
 - The **force he exerts**:
-  - On Earth: **~844.6 N**
-  - On Moon: **~139.6 N**
+  - On Earth: **~850 N**
+  - On Moon: **~140 N**
   - 
   - ---
 
