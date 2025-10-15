@@ -1,8 +1,10 @@
 title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+description: A starter template for a Jekyll site using the Just the Docs theme!
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
-url: https://just-the-docs.github.io
+url: https://783009.github.io/TER
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
