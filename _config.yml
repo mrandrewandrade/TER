@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-url: https://783009.github.io/TER
+url: https://mrandrewandrade.github.io/TER
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
