@@ -1,0 +1,842 @@
+    1  htop
+    2  sudo apt install htop
+    3  htop
+    4  which python
+    5  exit
+    6  ls
+    7  pwd
+    8  ssh-keygen -t ed25519 -C "andrew@andrewandrade.ca"
+    9  eval "$(ssh-agent -s)"
+   10  ssh-add ~/.ssh/id_ed25519
+   11  cat ~/.ssh/id_ed25519.pub
+   12  clear
+   13  ls
+   14  git clone git@github.com:mrandrewandrade/AnimateDiff.git
+   15  ls
+   16  python
+   17  sudo apt install python3.10
+   18  sudo apt install python3.9
+   19  ls
+   20  curl -fsSL https://pyenv.run | bash
+   21  export PYENV_ROOT="$HOME/.pyenv"
+   22  [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+   23  eval "$(pyenv init - bash)"
+   24  exit
+   25  which python
+   26  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+   27  echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+   28  echo 'eval "$(pyenv init - bash)"' >> ~/.bashrc
+   29  exec "$SHELL"
+   30  wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-wsl-ubuntu.pin
+   31  sudo mv cuda-wsl-ubuntu.pin /etc/apt/preferences.d/cuda-repository-pin-600
+   32  wget https://developer.download.nvidia.com/compute/cuda/12.6.3/local_installers/cuda-repo-wsl-ubuntu-12-6-local_12.6.3-1_amd64.deb
+   33  sudo dpkg -i cuda-repo-wsl-ubuntu-12-6-local_12.6.3-1_amd64.deb
+   34  sudo apt-get update
+   35  sudo apt update
+   36  sudo mv cuda-wsl-ubuntu.pin /etc/apt/preferences.d/cuda-repository-pin-600
+   37  ls
+   38  wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-wsl-ubuntu.pin
+   39  sudo mv cuda-wsl-ubuntu.pin /etc/apt/preferences.d/cuda-repository-pin-600
+   40  sudo dpkg -i cuda-repo-wsl-ubuntu-12-6-local_12.6.3-1_amd64.deb
+   41  sudo cp /var/cuda-repo-wsl-ubuntu-12-6-local/cuda-56752864-keyring.gpg /usr/share/keyrings/
+   42  sudo apt-get update
+   43  sudo apt-get -y install cuda-toolkit-12-6
+   44  sudo apt update; sudo apt install build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev curl git libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+   45  pyenv 
+   46  pyenv update
+   47  pyenv install 3.12
+   48  ls
+   49  cd AnimateDiff/
+   50  clear
+   51  ls
+   52  clear
+   53  which pip
+   54  python3.12 -m venv .AnimateDiff
+   55  sudo apt install python3.12-venv
+   56  source .AnimateDiff/bin/activate
+   57  python3.12 -m venv .AnimateDiff
+   58  source .AnimateDiff/bin/activate
+   59  ls
+   60  pip install -r requirements.txt 
+   61  pip install tokenizers
+   62  pip install -r requirements.txt 
+   63  clear
+   64  cat requirements.txt 
+   65  pip install -r requirements.txt 
+   66  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+   67  . "$HOME/.cargo/env"
+   68  pip install -r requirements.txt 
+   69  pip install transformers==2.5.1
+   70  pip install -r requirements.txt 
+   71  vim requirements.txt 
+   72  pip install torch=2.3.1
+   73  pip install torch==2.3.1
+   74  pip install torchvision==0.18.1
+   75  pip install diffusers==0.11.1
+   76  pip install transformers==4.25.1
+   77  pip install transformers
+   78  pip install xformers==0.0.27
+   79  vim requirements.txt 
+   80  pip install -r requirements.txt 
+   81  python -u app.py
+   82  vim /home/aa/AnimateDiff/.AnimateDiff/lib/python3.12/site-packages/huggingface_hub/__init__.py 
+   83  vim /home/aa/AnimateDiff/.AnimateDiff/lib/python3.12/site-packages/diffusers/dynamic_modules_utils.py 
+   84  python -u app.py
+   85  -m pip install --upgrade transformers
+   86  pip install --upgrade transformers
+   87  python -u app.py
+   88  pip install accelerate
+   89  python -u app.py
+   90  exit
+   91  ls
+   92  cd AnimateDiff/
+   93  pyenv install python 3.10
+   94  pyenv install --list
+   95  pyenv install 3.10.
+   96  pyenv install 3.10.16
+   97  clear
+   98  ls
+   99  python3.10 -m venv .aa
+  100  python3.10
+  101  python3.10.16
+  102  exit
+  103  clear
+  104  ls
+  105  cd AnimateDiff/
+  106  ls
+  107  pyenv nvc-list
+  108  pyenv -list
+  109  pyenv --list
+  110  python3.12
+  111  python3.12 -m venv 12
+  112  source 12/bin/activate
+  113  pip install -r requirements.txt 
+  114  LS
+  115  CLEAR
+  116  LS
+  117  clear
+  118  ls
+  119  source 12/bin/activate
+  120  clear
+  121  ls
+  122  cat README.md 
+  123  python -u app.py
+  124  pip install diffusers
+  125  vim requirements.txt 
+  126  python -u app.py
+  127  vim requirements.txt 
+  128  pip install transformers
+  129  vim requirements.txt 
+  130  pip install transformers
+  131  python -u app.py
+  132  pip install triton
+  133  python -u app.py
+  134  vim animatediff/models/unet.py 
+  135  python -u app.py
+  136  vim animatediff/models/attention.py 
+  137  python -u app.py
+  138  vim animatediff/models/unet_blocks.py 
+  139  vim animatediff/models/attention.py 
+  140  python -u app.py
+  141  pip install torchvision
+  142  python -u app.py
+  143  pip install torch==2.3.1
+  144  python -u app.py
+  145  pip install torch==2.5.1
+  146  python -u app.py
+  147  vim animatediff/models/motion_module.py 
+  148  python -u app.py
+  149  im animatediff/models/motion_module.py 
+  150  vim animatediff/models/motion_module.py 
+  151  python -u app.py
+  152  vim animatediff/pipelines/pipeline_animation.py 
+  153  python -u app.py
+  154  vim animatediff/models/sparse_controlnet.py 
+  155  python -u app.py
+  156  fpp
+  157  apt install fpp
+  158  sudo apt install fpp
+  159  cd ..
+  160  cd PathPicker/debian
+  161  ./package.sh
+  162  ls ../pathpicker_*_all.deb
+  163  cd ..
+  164  fpp
+  165  exit
+  166  ls
+  167  cd AnimateDiff/
+  168  ls
+  169  fpp
+  170  clear
+  171  ls
+  172  source 12/bin/activate
+  173  ls
+  174  python -u app.py
+  175  vim animatediff/models/sparse_controlnet.py 
+  176  python -u app.py
+  177  vim animatediff/models/unet.py 
+  178  python -u app.py
+  179  vim animatediff/models/unet.py 
+  180  python -u app.py
+  181  pip freeze > freeze.txt
+  182  cat freeze.txt | grep diffusers
+  183  pip install diffusers==0.11.1
+  184  python -u app.py
+  185  cd ..
+  186  clear
+  187  ls
+  188  mv AnimateDiff_old
+  189  mv AnimateDiff AnimateDiff_old
+  190  git clone git@github.com:mrandrewandrade/AnimateDiff.git
+  191  ls
+  192  cd AnimateDiff
+  193  python -u app.py
+  194  ls
+  195  cp ../AnimateDiff_old/12 .
+  196  python -u app.py
+  197  which python
+  198  exit
+  199  ls
+  200  cd AnimateDiff
+  201  ls
+  202  cp ../AnimateDiff_old/12 .
+  203  cp -r ../AnimateDiff_old/12 .
+  204  ls
+  205  source 12/bin/activate
+  206  python -u app.py
+  207  cd ..
+  208  ls
+  209  clear
+  210  ls
+  211  cd AnimateDiff_old/
+  212  ls
+  213  exit
+  214  ls
+  215  cd AnimateDiff_old/
+  216  ls
+  217  clear
+  218  ls
+  219  source 12/bin/activate
+  220  python -u app.py
+  221  cat freeze.txt | grep diffuers
+  222  cat freeze.txt | grep diffusers
+  223  pip install diffuers==0.32.1
+  224  pip install diffusers==0.32.1
+  225  python -u app.py
+  226  pip install -U accelerate
+  227  python -u app.py
+  228  ls
+  229  exit
+  230  cd
+  231  ls
+  232  cd AnimateDiff
+  233  rm -r 12/
+  234  cd ..
+  235  clear
+  236  ls
+  237  git clone git@github.com:mrandrewandrade/Awesome-Youtube-Thumbnail-Generator.git
+  238  ls
+  239  git clone git@github.com:mrandrewandrade/ai-image-generator.git
+  240  cd ai-image-generator/
+  241  vim requirements.txt
+  242  python3.12 -m venv .ai-image-generator
+  243  source .ai-image-generator/bin/activate
+  244  l
+  245  pip install -r requirements.txt 
+  246  clear
+  247  ls
+  248  python generate_image.py
+  249  vim requirements.txt 
+  250  pip install -r requirements.txt 
+  251  python generate_image.py
+  252  clear
+  253  ls
+  254  vim ai-generated-image.png 
+  255  export DISPLAY=localhost:0.0
+  256  nautilus .
+  257  sudo apt install nautilus
+  258  wslview .
+  259  sudo apt install wslu
+  260  wslview .
+  261  clear
+  262  ls
+  263  open generate_image.py 
+  264  vim generate_image.py 
+  265  python generate_image.py
+  266  vim generate_image.py 
+  267  python generate_image.py
+  268  ls
+  269  vim generate_image.py 
+  270  python generate_image.py
+  271  vim generate_image.py 
+  272  python generate_image.py
+  273  vim generate_image.py 
+  274  python generate_image.py
+  275  vim generate_image.py 
+  276  python generate_image.py
+  277  vim generate_image.py 
+  278  python generate_image.py
+  279  clear
+  280  exit
+  281  ls
+  282  cd AnimateDiff/
+  283  ls
+  284  vim requirements.txt 
+  285  htop
+  286  clear
+  287  als
+  288  cd
+  289  ls
+  290  git clone git@github.com:mrandrewandrade/Supertranslate.ai.git
+  291  clear
+  292  ls
+  293  cd Supertranslate.ai/
+  294  ls
+  295  python3.10 -m venv Supertranslate.ai
+  296  source Supertranslate.ai/bin/activate
+  297  clear
+  298  ls
+  299  pip install ipython-autotime
+  300  jupyter notebook
+  301  sudo apt install jupyter-core
+  302  clear
+  303  ls
+  304  cd Supertranslate.ai/
+  305  ls
+  306  cd ..
+  307  ls
+  308  jupyter notebook
+  309  which python
+  310  python -m notebook
+  311  python3.10 -m notebook
+  312  exit
+  313  pyvenv -list
+  314  pyenv -list
+  315  pyenv --list
+  316  pyenv install -list
+  317  pyenv install 3.8.5
+  318  ls
+  319  cd AnimateDiff
+  320  python3.8 -m venv .AnimatedDiff
+  321  python3.8.5 -m venv .AnimatedDiff
+  322  python3.8
+  323  pyenv help global
+  324  python global 3.8.5
+  325  pyenv global 3.8.5 3.10.16 3.12.8
+  326  python3.8.5 -m venv .AnimatedDiff
+  327  python3.8 -m venv .AnimatedDiff
+  328  source .AnimatedDiff/
+  329  source .AnimatedDiff/bin/activate
+  330  ls
+  331  pip install -r requirements.txt
+  332  clear
+  333  ls
+  334  python3.8 -u app.py
+  335  pip install huggingface==0.25.0
+  336  vim requirements.txt 
+  337  pip install huggingface_hub==0.23.5
+  338  python3.8 -u app.py
+  339  clear
+  340  python3.8 -u app.py
+  341  pip install accelerate
+  342  python3.8 -u app.py
+  343  exit
+  344  cd Supertranslate.ai/
+  345  ls
+  346  source Supertranslate.ai/bin/activate
+  347  jupyter notebook
+  348  sudo apt remove jupyter-core
+  349  pip install jupyter-core
+  350  jupyter notebook
+  351  ls
+  352  python -m notebook
+  353  python3 -m notebook
+  354  sudo -H pip install jupyter
+  355  pip install ipykernel
+  356  jupyter notebook
+  357  code
+  358  clear
+  359  ls
+  360  jupyter notebook
+  361  pip3 install --upgrade --force-reinstall --no-cache-dir jupyter
+  362  python -m IPython notebook
+  363  python -m notebook
+  364  sudo apt install ffmpeg
+  365  pip install ffmpeg
+  366  pip install ffmpeg-python
+  367  jupyter noteboook
+  368  jupyter notebook
+  369  python -m notebook
+  370  ls
+  371  cd Supertranslate.ai/
+  372  clear
+  373  ls
+  374  vim python3.10_requirements.txt
+  375  htop
+  376  ls
+  377  mv Scrolling_Subtitles_On_Video_using_Python/Intro.mp4 .
+  378  htop
+  379  git@github.com:mrandrewandrade/Fooocus-AI-Image-Generator.git
+  380  git clone git@github.com:mrandrewandrade/Fooocus-AI-Image-Generator.git
+  381  ls
+  382  cd Fooocus-AI-Image-Generator/
+  383  ls
+  384  python3 -m venv .fooocus_env
+  385  source .fooocus_env/bin/activate
+  386  vim requirements_versions.txt 
+  387  pip install -r requirements_versions.txt 
+  388  cclear
+  389  clear
+  390  ls
+  391  python3 entry_with_update.py
+  392  clear
+  393  ls
+  394  python webui.py 
+  395  clear
+  396  ls
+  397  python webui.py 
+  398  python webui.py
+  399  htop
+  400  cd Supertranslate.ai/
+  401  ls
+  402  source Supertranslate.ai/bin/activate
+  403  ls
+  404  python -m notebook
+  405  cd Supertranslate.ai/
+  406  source Supertranslate.ai/bin/activate
+  407  python -m notebook
+  408  sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+  409  sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+  410  sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl --no-check-certificate
+  411  sudo chmod a+rx /usr/local/bin/youtube-dl
+  412  eit
+  413  exit
+  414  sudo -H pip install --upgrade youtube-dl
+  415  youtube-dl -F mp3 https://www.youtube.com/watch?v=BsvroCup0gA&list=PLwKVKKkFznfGv-KXW8jS4TipbuWFnH83Q
+  416  suro rm -r /usr/local/bin/youtube-dl 
+  417  sudo rm -r /usr/local/bin/youtube-dl 
+  418  clear
+  419  ls
+  420  source Supertranslate.ai/Supertranslate.ai/bin/activate
+  421  sudo -H pip install --upgrade youtube-dl
+  422  pip install
+  423  pip install --upgrade youtube-dl
+  424  youtube-dl -F mp3 https://www.youtube.com/watch?v=BsvroCup0gA&list=PLwKVKKkFznfGv-KXW8jS4TipbuWFnH83Q
+  425  youtube-dl https://www.youtube.com/watch?v=BsvroCup0gA&list=PLwKVKKkFznfGv-KXW8jS4TipbuWFnH83Q
+  426  exit
+  427  ls
+  428  source Supertranslate.ai/Supertranslate.ai/bin/activate
+  429  youtube-dl https://www.youtube.com/watch?v=jLq-SG8L6yY
+  430  clear
+  431  git clone git@github.com:mrandrewandrade/aca.git
+  432  sudo apt install ruby-dev ruby-bundler nodejs
+  433  sudo apt update && sudo apt upgrade -y
+  434  sudo apt install ruby-dev ruby-bundler nodejs
+  435  clear
+  436  ls
+  437  git clone git@github.com:mrandrewandrade/aca.git
+  438  cd aca/
+  439  clear
+  440  ls
+  441  bundle config set --local path 'vendor/bundle'
+  442  jekyll serve -l -H localhost
+  443  bundle install
+  444  jekyll serve -l -H localhost
+  445  bundle config set --local path 'vendor/bundle'
+  446  jekyll serve -l -H localhost
+  447  sudo apt install build-essential gcc make
+  448  jekyll serve -l -H localhost
+  449  sudo apt install jekyll
+  450  jekyll serve -l -H localhost
+  451  bundle config set --local path 'vendor/bundle'
+  452  jekyll serve -l -H localhost
+  453  bundle install
+  454  jekyll serve -l -H localhost
+  455  ranger
+  456  sudo apt install ranger
+  457  jekyll serve -l -H localhost
+  458  bundle install
+  459  exit
+  460  curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
+  461  curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp
+  462  python3 -m pip install -U "yt-dlp[default]"
+  463  python3 -m pip install --upgrade pip
+  464  yt-dlp
+  465  sudo snap install yt-dlp
+  466  cd khr/
+  467  ls
+  468  clear
+  469  ls
+  470  ytmp3 https://www.youtube.com/playlist?list=PLm4PD9GxVlquprjM8RHP165qQEyFOWOhO
+  471  ytmp3 https://www.youtube.com/playlist?list=PLm4PD9GxVlquprjM8RHP165qQEyFOWOhO > k_in_order.tx
+  472  ls
+  473  exit
+  474  ytmp3 https://www.youtube.com/playlist?list=PLqZ1mTSDr6_5Sbbkbbwriqb4OkGjI4OHh
+  475  cd khr/
+  476  clear
+  477  ls
+  478  ytmp3 https://www.youtube.com/playlist?list=PLqZ1mTSDr6_5Sbbkbbwriqb4OkGjI4OHh
+  479  ytmp3 https://www.youtube.com/playlist?list=PLqZ1mTSDr6_5Sbbkbbwriqb4OkGjI4OHh > k_dis.txt
+  480  exit
+  481  cd khr/
+  482  ytmp3 https://www.youtube.com/playlist?list=PLO0OZMXDb6T4s8kcK1dFSV-Qt0rDK1EZE
+  483  exit
+  484  ls
+  485  cd khr/
+  486  ytmp3 https://www.youtube.com/playlist?list=PLO0OZMXDb6T4x3AQKtngsIJAwTSyxsZOD
+  487  ytmp3 https://www.youtube.com/playlist?list=PLO0OZMXDb6T6O1Rh0AubMG2l7ZtqwfrQ0
+  488  ytmp3 https://www.youtube.com/playlist?list=PLO0OZMXDb6T7z0UO6ZDRzK5SieCoI_0md
+  489  exit
+  490  cd khr/
+  491  ytmp3 https://www.youtube.com/watch?v=79IKTDRqbP0
+  492  ytmp3 https://www.youtube.com/watch?v=ZNwxPXBdt6E
+  493  exit
+  494  cd khr/
+  495  ytmp3 https://www.youtube.com/watch?v=95Nq0EnRBhM&list=PLO0OZMXDb6T6_kXmf0t1yDbU0IofWtIgb
+  496  clear
+  497  ls
+  498  cd
+  499  ll
+  500  la
+  501  l
+  502  clear
+  503  vim .bashrc 
+  504  source .bashrc 
+  505  clear
+  506  mkdir khr
+  507  cd khr/
+  508  clear
+  509  ls
+  510  clear
+  511  ytmp3 https://www.youtube.com/playlist?list=PLwKVKKkFznfGv-KXW8jS4TipbuWFnH83Q
+  512  ytmp3 https://www.youtube.com/playlist?list=PLwKVKKkFznfGv-KXW8jS4TipbuWFnH83Q > text.txt
+  513  vim text.txt 
+  514  ytmp3 https://www.youtube.com/playlist?list=PLwKVKKkFznfGv-KXW8jS4TipbuWFnH83Q > k_in_order_live.txt
+  515  ytmp3 https://www.youtube.com/watch?v=PrHw023rIgU
+  516  ls
+  517  mv Khruangbin\ -\ A\ LA\ SALA\ \(Full\ Album\)\ \[PrHw023rIgU\].mp3 khr/
+  518  cd khr/
+  519  ytmp3 https://www.youtube.com/watch?v=yJ7dNneiR14&list=PLO0OZMXDb6T7iJIebd6LhoseHCvNixxfX
+  520  cd khr/
+  521  ls
+  522  history
+  523  clear
+  524  exit
+  525  open .
+  526  explorer.exe
+  527  explorer.exe .
+  528  exit
+  529  clear
+  530  ls
+  531  clear
+  532  ls
+  533  mkdir floor_plan
+  534  cd floor_plan/
+  535  jupyter notebook
+  536  which python
+  537  python -m venv .floor_plan
+  538  source .floor_plan/bin/activate
+  539  pip install jupter
+  540  jupyter notebook
+  541  pip install jupyterlab
+  542  pip install matplotlib
+  543  jupyter notebook
+  544  python notebook
+  545  Jupyter command `jupyter-notebook` not found.
+  546  python -m noteobok
+  547  python -m notebook
+  548  python3 -m notebook
+  549  which python
+  550  python3 -m notebook
+  551  jupyter notebook
+  552  exit
+  553  clear
+  554  wsl --install
+  555  clear
+  556  ls
+  557  pwd
+  558  clear
+  559  s
+  560  clear
+  561  ls
+  562  cd Supertranslate.ai/
+  563  ls
+  564  yt-dlp https://www.youtube.com/watch?v=TzSaIavYYsI&list=RDTzSaIavYYsI&start_radio=1
+  565  yt-dlp -U
+  566  pip install yt-dlp -U
+  567  yt-dlp https://www.youtube.com/watch?v=TzSaIavYYsI&list=RDTzSaIavYYsI&start_radio=1
+  568  exit
+  569  jupyt
+  570  jupyter notebook
+  571  ls
+  572  cd Supertranslate.ai/
+  573  clear
+  574  ls
+  575  which python
+  576  cd 
+  577  sudo apt-get update
+  578  sudo apt install python3-click python3-yaml python3-colorama
+  579  ls
+  580  clear
+  581  mkdir ter
+  582  cd ..
+  583  ls
+  584  cd aa/
+  585  ls
+  586  clear
+  587  ls
+  588  rm -r ter/
+  589  git clone git@github.com:mrandrewandrade/TER.git
+  590  ssh-keygen -t ed25519 -C "andrew@andrewandrade.ca"
+  591  eval "$(ssh-agent -s)"
+  592  ssh-add ~/.ssh/id_ed25519
+  593  cat ~/.ssh/id_ed25519.pub
+  594  cls
+  595  git clone git@github.com:mrandrewandrade/TER.git
+  596  clear
+  597  ls
+  598  cd TER/
+  599  ls
+  600  cd assets/
+  601  ls
+  602  mkdir notebooks
+  603  cd notebooks/
+  604  ls
+  605  cd
+  606  ls
+  607  cd TER/
+  608  clear
+  609  ls
+  610  python3 -m venv .venv
+  611  source .venv/bin/activate
+  612  python3 -m venv TER
+  613  source TER/bin/activate
+  614  vim requirements.txt
+  615  pip install -r requirements.txt
+  616  pip install --upgrade pip
+  617  jupytere notebook
+  618  jupyter notebook
+  619  clear
+  620  ls
+  621  cd TER/
+  622  ls
+  623  git status
+  624  cd ..
+  625  clear
+  626  ls
+  627  clear
+  628  ls
+  629  mv TER/ TER_done
+  630  clear
+  631  ls
+  632  history > history.txt
+  633  vi history.txt 
+  634  open .
+  635  cat history.txt 
+  636  clear
+  637  ls
+  638  git clone https://github.com/mrandrewandrade/TER.git
+  639  cd TER
+  640  clear
+  641  ls
+  642  cd assets/
+  643  ls
+  644  mkdir lin_reg
+  645  cd lin_reg/
+  646  clear
+  647  ls
+  648  which python
+  649  mkdir notebook
+  650  ranger
+  651  ls
+  652  exit
+  653  htop
+  654  ls
+  655  source ter-env/bin/activate
+  656  juptyer 
+  657  juptyer notebook
+  658  jupyter notebook
+  659  cclear
+  660  jupyter notebook
+  661  exit
+  662  vlear
+  663  clear
+  664  ls
+  665  cd TER
+  666  ls
+  667  cd assets/
+  668  ls
+  669  clear
+  670  ls
+  671  cd lin_reg/
+  672  clear
+  673  ls
+  674  cd notebook/
+  675  ls
+  676  python3 -m venv ter-env
+  677  ls
+  678  ranger
+  679  clear
+  680  ls
+  681  source ter-env/bin/activate
+  682  which python
+  683  vi requirements.txt
+  684  cat requirements.txt 
+  685  clear
+  686  ls
+  687  pip install -r requirements.txt
+  688  jupyter notebook
+  689  tmux
+  690  tmu
+  691  tmux
+  692  cd
+  693  vim .vimrc
+  694  ls
+  695  vim history.txt 
+  696  tmux -l
+  697  ls
+  698  cd TER
+  699  clear
+  700  ls
+  701  git status
+  702  git add -A
+  703  git commit -m "added lin reg tut"
+  704  git cofig --global user.email "andrew@andrewandrade.ca"
+  705  git config --global user.email "andrew@andrewandrade.ca"
+  706  git config --global user.name "andrew@andrewandrade.ca"
+  707  git config --global user.name "mrandrewandrade"
+  708  git status
+  709  git push origin main 
+  710  clear
+  711  ls
+  712  clear
+  713  ls
+  714  cd ..
+  715  mv TER TER_old
+  716  git clone git@github.com:datascienceguide/datascienceguide.github.io.git
+  717  cd TER_
+  718  ls
+  719  git clone git@github.com:datascienceguide/datascienceguide.github.io.git
+  720  git clone git@github.com:mrandrewandrade/TER.git
+  721  clear
+  722  ls
+  723  mv TER_old/ TER
+  724  cd TER
+  725  ls
+  726  git status
+  727  mv TER_old/assets/lin_reg/ assets/
+  728  ls
+  729  ranger
+  730  clear
+  731  ls
+  732  cd assets/
+  733  ls
+  734  cd lin_reg/
+  735  clear
+  736  ls
+  737  cd notebook/
+  738  ls
+  739  clear
+  740  ls
+  741  curl ^"https://github.com/datascienceguide/datascienceguide.github.io/raw/refs/heads/master/tutorials/Linear-Regression-Tutorial.ipynb^" ^
+  742  curl ^"https://raw.githubusercontent.com/datascienceguide/datascienceguide.github.io/refs/heads/master/tutorials/Linear-Regression-Tutorial.ipynb^" ^
+  743  curl https://raw.githubusercontent.com/datascienceguide/datascienceguide.github.io/refs/heads/master/tutorials/Linear-Regression-Tutorial.ipynb
+  744  curl https://raw.githubusercontent.com/datascienceguide/datascienceguide.github.io/refs/heads/master/tutorials/Linear-Regression-Tutorial.ipynb > linear-regression-tutorial.ipynb
+  745  clear
+  746  ls
+  747  curl https://raw.githubusercontent.com/datascienceguide/datascienceguide.github.io/refs/heads/master/tutorials/Linear-Regression-Tutorial.ipynb > linear-regression-tutorial.ipynb
+  748  cd
+  749  ls
+  750  cd datascienceguide.github.io/
+  751  ls
+  752  ranger
+  753  ls
+  754  mv datasets/ans* ../TER/assets/lin_reg/notebook/.
+  755  git status
+  756  git add -A
+  757  git commit -m "added anscombe"
+  758  cd 
+  759  ls
+  760  cd TER
+  761  ls
+  762  cd assets/
+  763  ls
+  764  cd lin_reg/
+  765  ls
+  766  cd notebook/
+  767  ls
+  768  vim requirements.txt 
+  769  clear
+  770  ls
+  771  source ter-env/bin/activate
+  772  history | grep requirements.txt
+  773  pip install -r requirements.txt 
+  774  pip install --upgrade pip
+  775  pip install -r requirements.txt 
+  776  vim requirements.txt 
+  777  ls
+  778  cd TER
+  779  ls
+  780  cd assets/
+  781  cd ..
+  782  rm -r TER_old/
+  783  rm -r TER_old/ -y
+  784  rm -r TER_old/
+  785  ls
+  786  cd TER_old/
+  787  ls
+  788  rm .git
+  789  rm -r .git
+  790  rm -fr .git
+  791  cd ..
+  792  rm -fr TER_old/
+  793  clear
+  794  ls
+  795  cd assets/
+  796  ls
+  797  cd lin_reg/
+  798  ls
+  799  mv notebook/* .
+  800  ls
+  801  rm -r notebook/
+  802  ls
+  803  source ter-env/bin/activate
+  804  ls
+  805  jupyter notebook
+  806  jupyter-notebook
+  807  history | grep notebook
+  808  jupyter notebook
+  809  python3 -m notebook
+  810  clear
+  811  ls
+  812  which python
+  813  exit
+  814  ls
+  815  cd TER
+  816  ls
+  817  cd assets/
+  818  ls
+  819  cd lin_reg/
+  820  ls
+  821  source ter-env/bin/activate
+  822  which python
+  823  pip install -r requirements.txt 
+  824  vim requirements.txt 
+  825  pip install -r requirements.txt 
+  826  jupyter notebook
+  827  clear
+  828  ls
+  829  rm Untitled.ipynb 
+  830  ls
+  831  git status
+  832  cd ..
+  833  ls
+  834  git status
+  835  git add -A
+  836  ls
+  837  cd assets/
+  838  ls
+  839  cd lin_reg/
+  840  ls
+  841  history
+  842  history > history.txt
