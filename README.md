@@ -39,3 +39,32 @@ Attainable: yes
 Revelant: yes
 
 Timely: done by the end of class
+
+Nov 19:
+
+Specific: Finish blog post
+
+Measurable: view on website, submitted to dropbox
+
+Attainable: yes
+
+Revelant: yes
+
+Timely: done by the end of class
+
+
+Nov 20:
+
+Specific: EDA on combine data / linear regression
+
+Measurable: view on website, submitted to dropbox
+
+Attainable: yes
+
+Revelant: yes
+
+Timely: done by the end of class
+
+Nov 21:
+
+Specific: Feedback on blog. 
