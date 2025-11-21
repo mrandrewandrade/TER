@@ -12,7 +12,7 @@ tags: [anscombe, statistics, data-visualization, analysis]
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/eda/Anscombe's%20Data%20Quartet%20Exploratory%20Data%20Analysis.ipynb)
 
 You can veiw the pdf file [here](https://783009.github.io/assets/eda/Anscombe's%20Data%20Quartet%20Exploratory%20Data%20Analysis.pdf)
-<iframe src="/assets/eda/Anscombe's Data Quartet Exploratory Data Analysis.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/eda/Anscombe's Data Quartet Exploratory Data Analysis.pdf" width="100%" height="600px"></iframe>
 
 
 *This notebook performs a full exploratory data analysis (EDA) on Anscombe's Quartet, highlighting the importance of visual inspection alongside summary statistics.*
@@ -583,7 +583,7 @@ fig.write_html("output/anscombe_plotly.html")
 
 
     
-<iframe src="/assets/eda/anscombe_plotly.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="assets/eda/anscombe_plotly.html" width="100%" height="600" frameborder="0"></iframe>
 
 
 
