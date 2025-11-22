@@ -1,3 +1,10 @@
+---
+title: "Auto Data Set"
+date: 2025-09-24
+categories: [Blog, Data Analysis]
+tags: [Blog, Data, Analysis]
+---
+
 ### Force of Mr. Andrade on the Moon 
 
 **Question:**  
