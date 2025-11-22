@@ -12,3 +12,5 @@ aux_links:
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+includes:
+  mathjax: mathjax.html
