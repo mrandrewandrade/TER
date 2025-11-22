@@ -1,5 +1,5 @@
 ---
-title: "EDA on the Combine Data Set"
+title: "Combine Data"
 date: 2025-11-22
 categories: [Projects, Data Analysis]
 tags: [Data, Regression, Python, EDA]
