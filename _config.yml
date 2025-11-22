@@ -8,3 +8,7 @@ url: https://mrandrewandrade.github.io/TER
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
