@@ -1,5 +1,5 @@
 ---
-title: "Applied Linear Regression on Auto Dataset"
+title: "Auto Data Set"
 date: 2025-11-20
 categories: [Projects, Data Analysis]
 tags: [Auto, Regression, Python, ISLR]
