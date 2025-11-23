@@ -5,7 +5,9 @@ categories: [Blog, Data Analysis]
 tags: [Blog, Data, Analysis]
 ---
 
-# Linear Regression Tutorial — Blog Post
+[PDF document](https://783009.github.io/assets/linreg/linear-regression-tutorial.pdf)
+
+# Linear Regression
 
 *(Based on this PDF tutorial by Andrew Andrade)*
 <iframe src="/assets/linreg/linear-regression-tutorial.pdf" width="100%" height="600px"></iframe>
