@@ -1,3 +1,9 @@
+---
+title: "Mr.A On The Moon"
+date: 2025-09-24
+---
+{% include mathjax.html %}
+
 ### Force of Mr. Andrade on the Moon 
 
 **Question:**  

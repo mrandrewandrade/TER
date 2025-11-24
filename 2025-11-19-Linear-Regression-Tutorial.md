@@ -8,6 +8,9 @@ This is the tutorial made my Mr.Andrade with the FIXED CODE
 Link to  the Jupyter notebook file(.ipynb) [**here**](https://github.com/783009/783009.github.io/blob/main/assets/linreg/lin-reg-tut.ipynb)
 
 Link to PDF document vesion [**here**](https://783009.github.io/assets/linreg/linear-regression-tutorial.pdf)
+
+<iframe src="assets/linreg/linear-regression-tutorial.pdf" width="100%" height="600px"></iframe>
+
 # Linear Regression Tutorial
 
 
