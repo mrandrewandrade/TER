@@ -14,3 +14,6 @@ kramdown:
   math_engine: mathjax
 includes:
   mathjax: mathjax.html
+
+exclude:
+  - assets/lin_reg/combine_data/ter-env/
