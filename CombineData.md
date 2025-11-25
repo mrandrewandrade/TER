@@ -8,7 +8,7 @@ tags: [Data, Regression, Python, EDA]
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/Combine/Combine.ipynb)
 
 [PDF document](https://783009.github.io/assets/Combine/Combine.pdf)
-<iframe src="assets/Combine/Combine.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/combine/Combine.pdf" width="100%" height="600px"></iframe>
 
 # 🏋️ Combine Athlete Data Analysis Notebook
 **Goal:** Merge four combine test datasets into one M.O.A.T. (Mother Of All Tables), analyze relationships between athletic performance variables, explore noise, correlations, and statistical significance.
