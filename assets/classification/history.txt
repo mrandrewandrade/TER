@@ -1,0 +1,11 @@
+ git pull origin main
+ cd assets/
+ cd classification/
+ python3 -m venv class
+ source class/bin/activate
+ jupyter notebook
+ cp ../lin_reg/requirements.txt .
+ cat requirements.txt 
+ pip install -r requirements.txt 
+ jupyter notebook
+
