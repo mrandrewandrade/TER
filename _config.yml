@@ -15,10 +15,4 @@ kramdown:
 includes:
   mathjax: mathjax.html
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
-  - assets/lin_reg/combine_data/ter-env/
+  - assets/combine_data/ter-env/
