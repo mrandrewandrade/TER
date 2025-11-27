@@ -16,3 +16,4 @@ includes:
   mathjax: mathjax.html
 exclude:
   - assets/combine_data/ter-env/
+  - assets/classification/.class/
