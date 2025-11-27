@@ -10,7 +10,7 @@ tags: [Blog, Data, Analysis]
 # Linear Regression
 
 *(Based on this PDF tutorial by Andrew Andrade)*
-<iframe src="assets/linreg/linear-regression-tutorial.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/solutions/linreg/linear-regression-tutorial.pdf" width="100%" height="600px"></iframe>
 
 ---
 
