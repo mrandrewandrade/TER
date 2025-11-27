@@ -9,7 +9,7 @@ Link to  the Jupyter notebook file(.ipynb) [**here**](https://github.com/783009/
 
 Link to PDF document vesion [**here**](https://783009.github.io/assets/linreg/linear-regression-tutorial.pdf)
 
-<iframe src="assets/linreg/linear-regression-tutorial.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/solutions/linreg/linear-regression-tutorial.pdf" width="100%" height="600px"></iframe>
 
 # Linear Regression Tutorial
 
@@ -157,7 +157,7 @@ plt.xlabel("X")
 
 
     
-![png](/assets/linreg/output_4_1.png)
+![png](/assets/solutions/linreg/output_4_1.png)
     
 
 
@@ -225,7 +225,7 @@ plt.xlabel("y")
 
 
     
-![png](/assets/linreg/output_7_2.png)
+![png](/assets/solutions/linreg/output_7_2.png)
     
 
 
@@ -264,7 +264,7 @@ show()
 
 
     
-![png](/assets/linreg/output_9_0.png)
+![png](/assets/solutions/linreg/output_9_0.png)
     
 
 
@@ -345,19 +345,19 @@ plt.show()
 
 
     
-![png](/assets/linreg/output_11_0.png)
+![png](/assets/solutions/linreg/output_11_0.png)
     
 
 
 
     
-![png](/assets/linreg/output_11_1.png)
+![png](/assets/solutions/linreg/output_11_1.png)
     
 
 
 
     
-![png](/assets/linreg/output_11_2.png)
+![png](/assets/solutions/linreg/output_11_2.png)
     
 
 
@@ -490,7 +490,7 @@ plt.plot(X_prime[:, 1], y_hat, 'r')
 
 
     
-![png](/assets/linreg/output_15_1.png)
+![png](/assets/solutions/linreg/output_15_1.png)
     
 
 
@@ -516,7 +516,7 @@ g = sns.jointplot(
 
 
     
-![png](/assets/linreg/output_17_0.png)
+![png](/assets/solutions/linreg/output_17_0.png)
     
 
 
@@ -557,7 +557,7 @@ plt.show()
 
 
     
-![png](/assets/linreg/output_19_0.png)
+![png](/assets/solutions/linreg/output_19_0.png)
     
 
 
@@ -612,7 +612,7 @@ ylabel('Y')
 
 
     
-![png](/assets/linreg/output_21_1.png)
+![png](/assets/solutions/linreg/output_21_1.png)
     
 
 
@@ -639,7 +639,7 @@ plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
 
 
     
-![png](/assets/linreg/output_23_1.png)
+![png](/assets/solutions/linreg/output_23_1.png)
     
 
 

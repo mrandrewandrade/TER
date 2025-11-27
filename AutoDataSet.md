@@ -9,7 +9,7 @@ tags: [Auto, Regression, Python, ISLR]
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/Auto/AutoData.ipynb)
 
 [PDF document](https://783009.github.io/assets/Auto/AutoData.pdf)
-<iframe src="assets/Auto/AutoData.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/solutions/auto/AutoData.pdf" width="100%" height="600px"></iframe>
 
 # Auto Dataset Analysis
 This notebook analyzes the Auto dataset to investigate how vehicle characteristics relate to fuel efficiency (mpg).  
@@ -281,7 +281,7 @@ plt.show()
 
 
     
-![png](/assets/Auto/output_7_0.png)
+![png](/assets/solutions/auto/output_7_0.png)
     
 
 
@@ -296,7 +296,7 @@ plt.show()
 
 
     
-![png](/assets/Auto/output_9_0.png)
+![png](/assets/solutions/auto/output_9_0.png)
     
 
 
@@ -326,7 +326,7 @@ plt.show()
 
 
     
-![png](/assets/Auto/output_11_0.png)
+![png](/assets/solutions/auto/output_11_0.png)
     
 
 
