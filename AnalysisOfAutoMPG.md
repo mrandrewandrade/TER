@@ -9,7 +9,7 @@ tags: [Auto, Regression, Python, ISLR]
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/Auto/Analysis-of-Auto-MPG.ipynb)
 
 [PDF document](https://783009.github.io/assets/Auto/Analysis-of-Auto-MPG.pdf)
-<iframe src="assets/Auto/Analysis-of-Auto-MPG.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/solutions/auto/Analysis-of-Auto-MPG.pdf" width="100%" height="600px"></iframe>
 
 # Analysis of Auto MPG: Predicting High vs. Low Gas Mileage
 
@@ -128,19 +128,19 @@ print("Saved correlation heatmap to 'correlation_heatmap.png'")
 
 
     
-![png](/assets/Auto/output_1_1.png)
+![png](/assets/solutions/auto/output_1_1.png)
     
 
 
 
     
-![png](/assets/Auto/output_1_2.png)
+![png](/assets/solutions/auto/output_1_2.png)
     
 
 
 
     
-![png](/assets/Auto/output_1_3.png)
+![png](/assets/solutions/auto/output_1_3.png)
     
 
 
