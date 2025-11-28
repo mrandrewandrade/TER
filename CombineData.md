@@ -6,7 +6,7 @@ layout: default
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/Combine/CombineData.ipynb)
 
 [PDF document](https://783009.github.io/assets/Combine/CombineData.pdf)
-<iframe src="/assets/combine/CombineData.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/combine/CombineData.pdf" width="100%" height="600px"></iframe>
 
 # Analysis of Athlete Combine Performance Data
 
