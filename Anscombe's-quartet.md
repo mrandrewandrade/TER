@@ -423,7 +423,7 @@ plt.show()
 
 
     
-![png](/assets/eda/output_6_0.png)
+![png](assets/eda/output_6_0.png)
     
 
 
@@ -458,25 +458,25 @@ for dataset_name, group in df.groupby('dataset'):
 
 
     
-![png](/assets/eda/output_8_0.png)
+![png](assets/eda/output_8_0.png)
     
 
 
 
     
-![png](/assets/eda/output_8_1.png)
+![png](assets/eda/output_8_1.png)
     
 
 
 
     
-![png](/assets/eda/output_8_2.png)
+![png](assets/eda/output_8_2.png)
     
 
 
 
     
-![png](/assets/eda/output_8_3.png)
+![png](assets/eda/output_8_3.png)
     
 
 
@@ -516,13 +516,13 @@ plt.show()
 
 
     
-![png](/assets/eda/output_10_0.png)
+![png](assets/eda/output_10_0.png)
     
 
 
 
     
-![png](/assets/eda/output_10_1.png)
+![png](assets/eda/output_10_1.png)
     
 
 
@@ -543,7 +543,7 @@ plt.show()
 
 
     
-![png](/assets/eda/output_12_0.png)
+![png](assets/eda/output_12_0.png)
     
 
 
