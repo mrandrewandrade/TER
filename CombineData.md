@@ -267,7 +267,7 @@ print("Pairplot saved as 'athlete_pairplot.png'")
 
 
     
-![png](/assets/combine/output_9_1.png)
+![png](assets/combine/output_9_1.png)
     
 
 
@@ -416,7 +416,7 @@ print("Heatmap saved as 'correlation_heatmap.png'")
 
 
     
-![png](/assets/combine/output_11_1.png)
+![png](assets/combine/output_11_1.png)
     
 
 
