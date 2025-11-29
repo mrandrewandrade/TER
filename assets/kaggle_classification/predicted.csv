@@ -1,0 +1,398 @@
+ID,mpg01
+70_chevrolet chevelle malibu_alpha_3505,False
+71_buick skylark 320_bravo_3697,False
+70_plymouth satellite_charlie_3421,False
+68_amc rebel sst_delta_3418,False
+70_ford torino_echo_3444,False
+69_ford galaxie 500_foxtrot_4335,False
+70_chevrolet impala_golf_4344,False
+70_plymouth fury iii_hotel_4302,False
+70_pontiac catalina_india_4438,False
+69_amc ambassador dpl_juliet_3839,False
+69_dodge challenger se_kilo_3574,False
+72_plymouth 'cuda 340_lima_3602,False
+71_chevrolet monte carlo_mike_3773,False
+68_buick estate wagon (sw)_november_3087,False
+70_toyota corona mark ii_oscar_2380,True
+70_plymouth duster_papa_2844,True
+70_amc hornet_quebec_2787,True
+70_ford maverick_romeo_2600,True
+71_datsun pl510_sierra_2129,True
+71_volkswagen 1131 deluxe sedan_tango_1840,True
+70_peugeot 504_uniform_2682,True
+70_audi 100 ls_victor_2415,True
+70_saab 99e_whiskey_2361,True
+70_bmw 2002_xray_2242,True
+70_amc gremlin_yankee_2651,True
+70_ford f250_zulu_4630,False
+70_chevy c20_alpha_4374,False
+69_dodge d200_bravo_4379,False
+70_hi 1200d_charlie_4733,False
+70_datsun pl510_delta_2120,True
+71_chevrolet vega 2300_echo_2279,True
+71_toyota corona_foxtrot_2241,True
+70_ford pinto_golf_2048,True
+70_amc gremlin_hotel_2648,True
+71_plymouth satellite custom_india_3429,False
+71_chevrolet chevelle malibu_juliet_3317,False
+70_ford torino 500_kilo_3292,False
+73_amc matador_lima_3276,False
+71_chevrolet impala_mike_4215,False
+73_pontiac catalina brougham_november_4471,False
+71_ford galaxie 500_oscar_4158,False
+71_plymouth fury iii_papa_4090,False
+71_dodge monaco (sw)_quebec_4970,False
+71_ford country squire (sw)_romeo_4731,False
+70_pontiac safari (sw)_sierra_5128,False
+71_amc hornet sportabout (sw)_tango_2970,False
+71_chevrolet vega (sw)_uniform_2419,True
+71_pontiac firebird_victor_3267,False
+71_ford mustang_whiskey_3150,False
+71_mercury capri 2000_xray_2228,True
+71_opel 1900_yankee_2135,True
+71_peugeot 304_zulu_2068,True
+71_fiat 124b_alpha_2079,True
+71_toyota corolla 1200_bravo_1769,True
+71_datsun 1200_charlie_1614,True
+71_volkswagen model 111_delta_1842,True
+72_plymouth cricket_echo_1968,True
+72_toyota corona hardtop_foxtrot_2271,True
+72_dodge colt hardtop_golf_2123,True
+72_volkswagen type 3_hotel_2261,True
+72_chevrolet vega_india_2417,True
+72_ford pinto runabout_juliet_2215,True
+72_chevrolet impala_kilo_4278,False
+73_pontiac catalina_lima_4375,False
+72_plymouth fury iii_mike_4132,False
+72_ford galaxie 500_november_4117,False
+72_amc ambassador sst_oscar_3677,False
+72_mercury marquis_papa_4632,False
+72_buick lesabre custom_quebec_4515,False
+71_oldsmobile delta 88 royale_romeo_4442,False
+72_chrysler newport royal_sierra_4415,False
+71_mazda rx2 coupe_tango_2344,True
+72_amc matador (sw)_uniform_3904,False
+72_chevrolet chevelle concours (sw)_victor_4094,False
+72_ford gran torino (sw)_whiskey_4293,False
+72_plymouth satellite custom (sw)_xray_4075,False
+72_volvo 145e (sw)_yankee_2934,False
+72_volkswagen 411 (sw)_zulu_2519,True
+74_peugeot 504 (sw)_alpha_2970,False
+72_renault 12 (sw)_bravo_2202,True
+72_ford pinto (sw)_charlie_2405,True
+72_datsun 510 (sw)_delta_2273,True
+72_toyouta corona mark ii (sw)_echo_2511,True
+72_dodge colt (sw)_foxtrot_2155,True
+72_toyota corolla 1600 (sw)_golf_2089,True
+73_buick century 350_hotel_4090,False
+73_amc matador_india_3658,False
+72_chevrolet malibu_juliet_3995,False
+72_ford gran torino_kilo_4040,False
+73_dodge coronet custom_lima_3781,False
+73_mercury marquis brougham_mike_4943,False
+75_chevrolet caprice classic_november_4461,False
+72_ford ltd_oscar_4373,False
+73_plymouth fury gran sedan_papa_4248,False
+73_chrysler new yorker brougham_quebec_4720,False
+72_buick electra 225 custom_romeo_4947,False
+75_amc ambassador brougham_sierra_3811,False
+73_plymouth valiant_tango_3108,False
+73_chevrolet nova custom_uniform_3276,False
+73_amc hornet_victor_2931,False
+73_ford maverick_whiskey_3029,False
+73_plymouth duster_xray_2893,False
+73_volkswagen super beetle_yankee_1962,True
+73_chevrolet impala_zulu_5012,False
+73_ford country_alpha_4896,False
+74_plymouth custom suburb_bravo_4644,False
+73_oldsmobile vista cruiser_charlie_4500,False
+72_amc gremlin_delta_2783,True
+71_toyota carina_echo_2267,True
+73_chevrolet vega_foxtrot_2410,True
+73_datsun 610_golf_2382,True
+74_maxda rx3_hotel_2116,True
+73_ford pinto_india_2322,True
+73_mercury capri v6_juliet_2464,True
+73_fiat 124 sport coupe_kilo_2270,True
+73_chevrolet monte carlo s_lima_4079,False
+71_pontiac grand prix_mike_4284,False
+74_fiat 128_november_1873,True
+73_opel manta_oscar_2164,True
+71_audi 100ls_papa_2586,True
+73_volvo 144ea_quebec_2856,False
+73_dodge dart custom_romeo_3394,False
+74_saab 99le_sierra_2671,True
+73_toyota mark ii_tango_2795,False
+73_oldsmobile omega_uniform_3678,False
+73_plymouth duster_victor_3099,False
+73_ford maverick_whiskey_2889,False
+74_amc hornet_xray_2894,False
+72_chevrolet nova_yankee_3332,False
+74_datsun b210_zulu_1959,True
+74_ford pinto_alpha_2452,True
+74_toyota corolla 1200_bravo_1834,True
+73_chevrolet vega_charlie_2548,True
+74_chevrolet chevelle malibu classic_delta_3790,False
+73_amc matador_echo_3627,False
+74_plymouth satellite sebring_foxtrot_3622,False
+74_ford gran torino_golf_4134,False
+74_buick century luxus (sw)_hotel_4702,False
+74_dodge coronet custom (sw)_india_4459,False
+74_ford gran torino (sw)_juliet_4639,False
+74_amc matador (sw)_kilo_4249,False
+74_audi fox_lima_2211,True
+75_volkswagen dasher_mike_1950,True
+74_opel manta_november_2304,True
+75_toyota corona_oscar_1658,True
+75_datsun 710_papa_1994,True
+74_dodge colt_quebec_2118,True
+72_fiat 128_romeo_2120,True
+74_fiat 124 tc_sierra_2231,True
+74_honda civic_tango_2475,True
+74_subaru_uniform_2405,True
+73_fiat x1.9_victor_1991,True
+75_plymouth valiant custom_whiskey_3277,False
+74_chevrolet nova_xray_3466,False
+75_mercury monarch_yankee_3429,False
+75_ford maverick_zulu_3160,False
+75_pontiac catalina_alpha_4681,False
+75_chevrolet bel air_bravo_4442,False
+76_plymouth grand fury_charlie_4494,False
+75_ford ltd_delta_4664,False
+76_buick century_echo_3904,False
+76_chevroelt chevelle malibu_foxtrot_3905,False
+75_amc matador_golf_3745,False
+75_plymouth fury_hotel_3783,False
+75_buick skyhawk_india_3046,False
+75_chevrolet monza 2+2_juliet_3228,False
+74_ford mustang ii_kilo_3157,False
+77_toyota corolla_lima_2185,True
+73_ford pinto_mike_2640,True
+75_amc gremlin_november_2909,False
+75_pontiac astro_oscar_2596,True
+74_toyota corona_papa_2689,True
+74_volkswagen dasher_quebec_2231,True
+74_datsun 710_romeo_2557,True
+74_ford pinto_sierra_2989,False
+76_volkswagen rabbit_tango_1942,True
+75_amc pacer_uniform_3212,False
+75_audi 100ls_victor_2698,True
+74_peugeot 504_whiskey_2969,False
+75_volvo 244dl_xray_2953,False
+74_saab 99le_yankee_2667,False
+73_honda civic cvcc_zulu_1800,True
+74_fiat 131_alpha_2478,True
+76_opel 1900_bravo_2235,True
+76_capri ii_charlie_2561,True
+78_dodge colt_delta_2258,True
+77_renault 12tl_echo_2217,True
+76_chevrolet chevelle malibu classic_foxtrot_4209,False
+75_dodge coronet brougham_golf_4193,False
+76_amc matador_hotel_3969,False
+77_ford gran torino_india_4201,False
+76_plymouth valiant_juliet_3241,False
+78_chevrolet nova_kilo_3355,False
+77_ford maverick_lima_2998,True
+76_amc hornet_mike_3099,False
+76_chevrolet chevette_november_2050,True
+78_chevrolet woody_oscar_2177,True
+75_vw rabbit_papa_1936,True
+74_honda civic_quebec_1801,True
+77_dodge aspen se_romeo_3649,False
+76_ford granada ghia_sierra_3561,False
+76_pontiac ventura sj_tango_3639,False
+75_amc pacer d/l_uniform_3207,False
+76_volkswagen rabbit_victor_1829,True
+76_datsun b-210_whiskey_2001,True
+77_toyota corolla_xray_2145,True
+76_ford pinto_yankee_2553,True
+76_volvo 245_zulu_3160,False
+76_plymouth volare premier v8_alpha_3944,False
+75_peugeot 504_bravo_3275,False
+76_toyota mark ii_charlie_2939,False
+74_mercedes-benz 280s_delta_3813,False
+77_cadillac seville_echo_4376,False
+75_chevy c10_foxtrot_4065,False
+76_ford f108_golf_3881,False
+76_dodge d100_hotel_3768,False
+77_honda accord cvcc_india_2038,True
+77_buick opel isuzu deluxe_juliet_2159,True
+79_renault 5 gtl_kilo_1818,True
+77_plymouth arrow gs_lima_2297,True
+77_datsun f-10 hatchback_mike_1960,True
+77_chevrolet caprice classic_november_3873,False
+77_oldsmobile cutlass supreme_oscar_4046,False
+77_dodge monaco brougham_papa_4153,False
+76_mercury cougar brougham_quebec_4287,False
+77_chevrolet concours_romeo_3530,False
+77_buick skylark_sierra_3414,False
+77_plymouth volare custom_tango_3631,False
+77_ford granada_uniform_3510,False
+77_pontiac grand prix lj_victor_4230,False
+78_chevrolet monte carlo landau_whiskey_4168,False
+77_chrysler cordoba_xray_4328,False
+77_ford thunderbird_yankee_4336,False
+77_volkswagen rabbit custom_zulu_1932,True
+77_pontiac sunbird coupe_alpha_2735,True
+78_toyota corolla liftback_bravo_2257,True
+77_ford mustang ii 2+2_charlie_2762,True
+77_chevrolet chevette_delta_2042,True
+77_dodge colt m/m_echo_2060,True
+76_subaru dl_foxtrot_1999,True
+77_volkswagen dasher_golf_2202,True
+78_datsun 810_hotel_2820,True
+77_bmw 320i_india_2587,True
+76_mazda rx-4_juliet_2731,False
+78_volkswagen rabbit custom diesel_kilo_1976,True
+78_ford fiesta_lima_1795,True
+77_mazda glc deluxe_mike_1975,True
+78_datsun b210 gx_november_2060,True
+78_honda civic cvcc_oscar_1809,True
+78_oldsmobile cutlass salon brougham_papa_3378,False
+80_dodge diplomat_quebec_3723,False
+77_mercury monarch ghia_romeo_3565,False
+78_pontiac phoenix lj_sierra_3524,False
+80_chevrolet malibu_tango_3153,False
+78_ford fairmont (auto)_uniform_2966,True
+78_ford fairmont (man)_victor_2705,True
+78_plymouth volare_whiskey_3442,False
+78_amc concord_xray_3225,False
+78_buick century special_yankee_3365,False
+77_mercury zephyr_zulu_3085,False
+78_dodge aspen_alpha_3626,False
+78_amc concord d/l_bravo_3419,False
+78_chevrolet monte carlo landau_charlie_3410,False
+79_buick regal sport coupe (turbo)_delta_3450,False
+78_ford futura_echo_3190,False
+79_dodge magnum xe_foxtrot_4093,False
+77_chevrolet chevette_golf_2153,True
+79_toyota corona_hotel_2572,True
+78_datsun 510_india_2305,True
+80_dodge omni_juliet_2233,True
+78_toyota celica gt liftback_kilo_2505,True
+79_plymouth sapporo_lima_2751,False
+78_oldsmobile starfire sx_mike_2860,True
+78_datsun 200-sx_november_2395,True
+76_audi 5000_oscar_2815,False
+78_volvo 264gl_papa_3143,False
+78_saab 99gle_quebec_2806,False
+78_peugeot 604sl_romeo_3399,False
+79_volkswagen scirocco_sierra_1982,True
+78_honda accord lx_tango_2136,True
+79_pontiac lemans v6_uniform_3239,False
+79_mercury zephyr 6_victor_3002,False
+77_ford fairmont 4_whiskey_2875,True
+79_amc concord dl 6_xray_3257,False
+78_dodge aspen 6_yankee_3361,False
+81_chevrolet caprice classic_zulu_3844,False
+78_ford ltd landau_alpha_3718,False
+79_mercury grand marquis_bravo_3951,False
+80_dodge st. regis_charlie_3835,False
+79_buick estate wagon (sw)_delta_4352,False
+79_ford country squire (sw)_echo_4061,False
+79_chevrolet malibu classic (sw)_foxtrot_3598,False
+77_chrysler lebaron town @ country (sw)_golf_3953,False
+79_vw rabbit custom_hotel_1929,True
+78_maxda glc deluxe_india_1980,True
+79_dodge colt hatchback custom_juliet_1904,True
+79_amc spirit dl_kilo_2659,True
+79_mercedes benz 300d_lima_3531,False
+80_cadillac eldorado_mike_3903,False
+78_peugeot 504_november_3203,False
+77_oldsmobile cutlass salon brougham_oscar_3417,False
+81_plymouth horizon_papa_2215,True
+79_plymouth horizon tc3_quebec_2149,True
+78_datsun 210_romeo_2021,True
+79_fiat strada custom_sierra_2124,True
+79_buick skylark limited_tango_2682,True
+79_chevrolet citation_uniform_2607,True
+79_oldsmobile omega brougham_victor_2697,False
+80_pontiac phoenix_whiskey_2542,True
+82_vw rabbit_xray_2151,True
+80_toyota corolla tercel_yankee_1964,True
+80_chevrolet chevette_zulu_2132,True
+79_datsun 310_alpha_2031,True
+80_chevrolet citation_bravo_2667,True
+79_ford fairmont_charlie_2869,True
+80_amc concord_delta_3004,False
+80_dodge aspen_echo_3368,False
+82_audi 4000_foxtrot_2191,True
+80_toyota corona liftback_golf_2722,True
+80_mazda 626_hotel_2549,True
+80_datsun 510 hatchback_india_2421,True
+80_toyota corolla_juliet_2259,True
+78_mazda glc_kilo_2123,True
+79_dodge colt_lima_2808,False
+80_datsun 210_mike_2125,True
+79_vw rabbit c (diesel)_november_2081,True
+78_vw dasher (diesel)_oscar_2346,True
+80_audi 5000s (diesel)_papa_2940,True
+80_mercedes-benz 240d_quebec_3246,False
+80_honda civic 1500 gl_romeo_1837,True
+78_renault lecar deluxe_sierra_1847,True
+80_subaru dl_tango_2158,True
+79_vokswagen rabbit_uniform_1854,True
+82_datsun 280-zx_victor_2909,False
+80_mazda rx-7 gs_whiskey_2422,True
+80_triumph tr7 coupe_xray_2515,True
+80_ford mustang cobra_yankee_2912,False
+80_honda accord_zulu_2299,True
+83_plymouth reliant_alpha_2496,True
+81_buick skylark_bravo_2632,True
+80_dodge aries wagon (sw)_charlie_2633,True
+79_chevrolet citation_delta_2714,False
+82_plymouth reliant_echo_2390,True
+79_toyota starlet_foxtrot_1751,True
+79_plymouth champ_golf_1868,True
+81_honda civic 1300_hotel_1746,True
+82_subaru_india_2066,True
+79_datsun 210 mpg_juliet_1970,True
+81_toyota tercel_kilo_2063,True
+81_mazda glc 4_lima_1986,True
+81_plymouth horizon 4_mike_2220,True
+81_ford escort 4w_november_2043,True
+81_ford escort 2h_oscar_2390,True
+81_volkswagen jetta_papa_2199,True
+81_renault 18i_quebec_2315,True
+81_honda prelude_romeo_2205,True
+81_toyota corolla_sierra_2355,True
+79_datsun 200sx_tango_2622,True
+81_mazda 626_uniform_2638,True
+82_peugeot 505s turbo diesel_victor_3245,False
+81_volvo diesel_whiskey_3149,False
+81_toyota cressida_xray_2897,False
+81_datsun 810 maxima_yankee_2931,False
+81_buick century_zulu_3409,False
+81_oldsmobile cutlass ls_alpha_3737,False
+82_ford granada gl_bravo_3059,False
+81_chrysler lebaron salon_charlie_3458,False
+83_chevrolet cavalier_delta_2613,True
+82_chevrolet cavalier wagon_echo_2648,True
+82_chevrolet cavalier 2-door_foxtrot_2410,True
+81_pontiac j2000 se hatchback_golf_2566,True
+82_dodge aries se_hotel_2516,True
+82_pontiac phoenix_india_2750,True
+82_ford fairmont futura_juliet_2861,True
+81_volkswagen rabbit l_kilo_1981,True
+81_mazda glc custom l_lima_2030,True
+82_mazda glc custom_mike_1968,True
+82_plymouth horizon miser_november_2116,True
+82_mercury lynx l_oscar_2127,True
+82_nissan stanza xe_papa_2175,True
+82_honda accord_quebec_2213,True
+82_toyota corolla_romeo_2248,True
+83_honda civic_sierra_1958,True
+82_honda civic (auto)_tango_1960,True
+82_datsun 310 gx_uniform_1999,True
+82_buick century limited_victor_2935,False
+81_oldsmobile cutlass ciera (diesel)_whiskey_3014,False
+81_chrysler lebaron medallion_xray_2573,True
+83_ford granada l_yankee_2829,False
+83_toyota celica gt_zulu_2661,True
+82_dodge charger 2.2_alpha_2381,True
+82_chevrolet camaro_bravo_2944,False
+81_ford mustang gl_charlie_2802,True
+81_vw pickup_delta_2137,True
+82_dodge rampage_echo_2290,True
+81_ford ranger_foxtrot_2611,True
+84_chevy s-10_golf_2724,True
