@@ -1,0 +1,5 @@
+seaborn==0.13.2
+jupyter==1.1.1
+scikit-learn==1.7.2
+statsmodels==0.14.5
+ISLP==0.4.0
