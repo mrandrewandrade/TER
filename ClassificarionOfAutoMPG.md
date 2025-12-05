@@ -5,7 +5,7 @@ categories: [Projects, Data Analysis]
 tags: [Auto, Classification, Python, ISLR]
 math: true
 ---
-
+{% include mathjax.html %}
 
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/Auto/Classification.ipynb)
 
