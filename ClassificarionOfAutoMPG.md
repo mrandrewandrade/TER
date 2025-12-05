@@ -10,7 +10,7 @@ math: true
 You can veiw the Jupyter notebook file(.ipynb) [here](https://github.com/783009/783009.github.io/blob/main/assets/Auto/Classification.ipynb)
 
 [PDF document](https://783009.github.io/assets/Auto/Classification.pdf)
-<iframe src="/assets/solutions/auto/Classification.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/solutions/auto/Classification.pdf" width="100%" height="600px"></iframe>
 
 # 🚗 Deep Analysis of an Automotive MPG Classification Model
 
